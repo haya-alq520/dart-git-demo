@@ -1,5 +1,5 @@
 void main(){
 
-print("hello class");
+print("hello class from vs");
 
 }
